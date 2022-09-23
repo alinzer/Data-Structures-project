@@ -1,0 +1,5 @@
+{
+  "uri": "http://edu.yu.cs/com1320/project/doc1",
+  "text": "This doc1 plain text string Computer Headphones",
+  "countOfWords": "{\n  \"computer\": 1,\n  \"plain\": 1,\n  \"doc1\": 1,\n  \"headphones\": 1,\n  \"text\": 1,\n  \"this\": 1,\n  \"string\": 1\n}"
+}
